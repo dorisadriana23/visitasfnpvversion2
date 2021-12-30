@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "482579406972",
+    "project_id": "visitasfnpvversion2",
+    "storage_bucket": "visitasfnpvversion2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:482579406972:android:c50fc0bddce54febf169f9",
+        "android_client_info": {
+          "package_name": "com.example.visitasfnpvversion2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "482579406972-fju4r0vpcknk2kokrnr8iljsbmkdsk59.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkiIW5kq-CBsg3D1uEXbGYF8UHTw36gkE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "482579406972-fju4r0vpcknk2kokrnr8iljsbmkdsk59.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
